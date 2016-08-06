@@ -1,0 +1,25 @@
+{
+  "name": "appstart",
+  "version": "0.2.0",
+  "description": "Nodejs app starter",
+  "main": "index.js",
+  "author": "Alexey Balekhov <a@balek.ru>",
+  "license": "GPL-3.0",
+  "scripts": {
+    "build": "coffee -c ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/balek/node-appstart.git"
+  },
+  "keywords": [
+    "util"
+  ],
+  "bugs": {
+    "url": "https://github.com/balek/node-appstart/issues"
+  },
+  "homepage": "https://github.com/balek/node-appstart",
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  }
+}
