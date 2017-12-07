@@ -1,6 +1,6 @@
 {
   "name": "appstart",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Nodejs app starter",
   "main": "index.js",
   "author": "Alexey Balekhov <a@balek.ru>",
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/balek/node-appstart",
   "devDependencies": {
-    "coffee-script": "^1.10.0"
+    "coffeescript": "^1.10.0"
   }
 }
