@@ -2,7 +2,7 @@ module.exports = (opts) ->
     opts ||= {}
 
     if opts.coffee
-        require 'coffee-script/register'
+        require 'coffeescript/register'
 
     config = require './config'
 
